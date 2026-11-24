@@ -1,3 +1,11 @@
+> ## 📌 Proyecto entregado: Asistente de Atención al Cliente
+> **Autor:** Carlos Eduardo Lozoya López
+> Mi proyecto está en la carpeta [`atencion_cliente/`](atencion_cliente/README.md), con sus instrucciones de instalación y uso.
+> El contenido de abajo corresponde al ejemplo incluido en el repositorio original del curso que nos envió el profesor (`asistente_escritura/`).
+
+---
+
+
 # Asistente de Escritura Automática ✍️
 
 Este es un proyecto sencillo de un Asistente de Escritura impulsado por Inteligencia Artificial utilizando **Streamlit** para la interfaz gráfica y **Google Gemini API** como modelo de lenguaje subyacente.
